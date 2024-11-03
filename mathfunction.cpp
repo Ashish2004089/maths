@@ -7,3 +7,6 @@
         return (a / gcd(a, b)) * b;
     }
 
+
+
+ceil value = (a+b-1)/b
